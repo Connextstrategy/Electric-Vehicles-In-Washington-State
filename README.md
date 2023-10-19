@@ -1,4 +1,4 @@
-## Python Rutgers Bootcamp Challenge - Electric Vehicles In State of Washington
+## Python Rutgers Bootcamp Challenge "Project Three"  - Electric Vehicles In State of Washington
 
 This activity is broken down into multiple deliverables to makes progress towards developing a full-stack data visualization web application that allows users to interactively explore a dataset.
 
@@ -42,9 +42,11 @@ Visualizations
 
 ![Screenshot 2023-10-19 123431](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/065bfd2e-dbe4-4ede-9714-98fa7e8ebbd5)
 
-* We wanted to include data which included data on prices, range of vehicles and charge rates, so we identified [this site](https://ev-database.org/uk/compare/newest-upcoming-electric-vehicle#sort:path~type~order=.id~number~desc|range-slider-range:prev~next=0~600|range-slider-towweight:prev~next=0~2500|range-slider-acceleration:prev~next=2~23|range-slider-fastcharge:prev~next=0~1100|range-slider-eff:prev~next=150~500|range-slider-topspeed:prev~next=60~260|paging:currentPage=0|paging:number=all](https://ev-database.org/#sort:path~type~order=.rank~number~desc|range-slider-range:prev~next=0~1200|range-slider-acceleration:prev~next=2~23|range-slider-topspeed:prev~next=110~350|range-slider-battery:prev~next=10~200|range-slider-towweight:prev~next=0~2500|range-slider-fastcharge:prev~next=0~1500|paging:currentPage=0|paging:number=9)
+* We wanted to include data which included data on prices, range of vehicles and charge rates, so we identified this website (https://ev-database.org/uk/compare/newest-upcoming-electric-vehicle#sort:path~type~order=.id~number~desc|range-slider-range:prev~next=0~600|range-slider-towweight:prev~next=0~2500|range-slider-acceleration:prev~next=2~23|range-slider-fastcharge:prev~next=0~1100|range-slider-eff:prev~next=150~500|range-slider-topspeed:prev~next=60~260|paging:currentPage=0|paging:number=all](https://ev-database.org/#sort:path~type~order=.rank~number~desc|range-slider-range:prev~next=0~1200|range-slider-acceleration:prev~next=2~23|range-slider-topspeed:prev~next=110~350|range-slider-battery:prev~next=10~200|range-slider-towweight:prev~next=0~2500|range-slider-fastcharge:prev~next=0~1500|paging:currentPage=0|paging:number=9)
 
-  ![Screenshot 2023-10-10 135515](https://github.com/Connextstrategy/belly-button-challenge/assets/18508699/c6518639-4f51-479c-846b-9ab7704f41a8)
+* This enabled us to pull important data (MSRP, RapidCharge, Range, etc.) based on the previous State of Washington electric vehicles model names
+
+![Screenshot 2023-10-19 131057](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/6b216ab6-7fb5-427f-a708-a64aff0ad184)
 
 
 
