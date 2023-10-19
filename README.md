@@ -1,6 +1,6 @@
 ## Python Rutgers Bootcamp Challenge "Project Three"  - Electric Vehicles In State of Washington
 
-This activity is broken down into multiple deliverables to makes progress towards developing a full-stack data visualization web application that allows users to interactively explore a dataset.
+This activity is broken down into multiple deliverables which makes progress towards developing a full-stack data visualization web application that allows users to interactively explore a dataset.
 
 ## Description
 
@@ -15,8 +15,8 @@ Data and Delivery
   
 Back End 
 
-* The page created to showcase data visualizations runs without error. (7.5 points)
-* A JavaScript library not shown in class is used in the project. (7.5 points)
+* The page created to showcase data visualizations runs without error. 
+* A JavaScript library not shown in class is used in the project. 
 
 The project conforms to one of the following designs
 
