@@ -32,9 +32,12 @@ Visualizations
   
 ## Instructions
 
-1. xxxxxxxxxxxxxxxxxxxxxxxxxxx
+1. Identifying Data For Analysis
 
-2. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+* Our group chose to select and analyze data based on  [Electric Vehicle Population Data](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2)
+
+
+3. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
   ![Screenshot 2023-10-10 135515](https://github.com/Connextstrategy/belly-button-challenge/assets/18508699/c6518639-4f51-479c-846b-9ab7704f41a8)
 
