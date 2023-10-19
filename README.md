@@ -60,7 +60,8 @@ Visualizations
   
 3. Cleaning up Electric Vehicle Population Data for exporting CSV file for integrated database creation
 
-* 
+* We need to clean up the data for the Electric Vehicle Population data from State of Washington so we did the following:
+** Dropped NAs
 
 
 ### Dependencies
