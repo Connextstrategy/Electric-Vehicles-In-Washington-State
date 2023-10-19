@@ -48,7 +48,19 @@ Visualizations
 
 ![Screenshot 2023-10-19 131057](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/6b216ab6-7fb5-427f-a708-a64aff0ad184)
 
+2. Webscraping EV database and exporting CSV file for integrated database creation
 
+* In order to get the data from the EV database website, we we forced to scrap the data from it via Beautiful Soup in Python and then create a dataframe off the data pulled to include the data we required for our visualizations
+
+![Screenshot 2023-10-19 131311](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/5fb9a08c-af9e-4228-9beb-a6b92c03e307)
+
+![Screenshot 2023-10-19 131335](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/052b1b48-3723-4f9b-9fb8-6b6e37d1c597)
+
+* Following the dataframe creation we exported a clean CSV file named EV_Analysis_Database
+  
+3. Cleaning up [Electric Vehicle Population Data](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2).
+
+![Screenshot 2023-10-19 123414](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/85ac7034-ca05-4c0e-b3b7-2077f3790f5a) for exporting CSV file for integrated database creation
 
 
 ### Dependencies
