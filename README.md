@@ -34,8 +34,13 @@ Visualizations
 
 1. Identifying Data For Analysis
 
-* Our group chose to select and analyze data based on  [Electric Vehicle Population Data](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2)
+* Our group chose to select and analyze data based on  [Electric Vehicle Population Data](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2).
 
+![Screenshot 2023-10-19 123414](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/85ac7034-ca05-4c0e-b3b7-2077f3790f5a)
+
+* This data was important as it included numerous data types to be used for visualizations in the project to include Make, Model, County, City, State, Postal Code, Electric Vehicle and EV Type
+
+![Screenshot 2023-10-19 123431](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/065bfd2e-dbe4-4ede-9714-98fa7e8ebbd5)
 
 3. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
