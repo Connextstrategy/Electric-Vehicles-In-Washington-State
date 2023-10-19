@@ -56,7 +56,7 @@ Visualizations
 
 ![Screenshot 2023-10-19 131335](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/052b1b48-3723-4f9b-9fb8-6b6e37d1c597)
 
-* Following the dataframe creation we exported a clean CSV file named EV_Analysis_Database. You can find the clean data in [this folder](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/tree/main/cleaned_csv_files)
+* Following the dataframe creation we exported a clean CSV file named EV_Analysis_Database. 
   
 3. Cleaning up Electric Vehicle Population Data for exporting CSV file for integrated database creation
 
@@ -64,7 +64,12 @@ Visualizations
   - Dropped NAs
   - Removed years older than 2022
   - Extracted longitude and latitude data from Vehicle Location variable
-  - 
+  - Dropped columns not neccesary from analysis
+  - Removed or extracted only models we deemed necessary for analysis
+  - Matched correct Model Names with the same exact syntax from the EV_Analysis_Database
+ 
+  ![Screenshot 2023-10-19 133736](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/6eae65c5-3353-497c-a92f-e934a5652fab)
+
 
 
 ### Dependencies
