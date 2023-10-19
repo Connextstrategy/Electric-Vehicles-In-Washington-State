@@ -56,11 +56,13 @@ Visualizations
 
 ![Screenshot 2023-10-19 131335](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/052b1b48-3723-4f9b-9fb8-6b6e37d1c597)
 
+* You can find the clean data in [this folder](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/tree/main/cleaned_csv_files)
+
 * Following the dataframe creation we exported a clean CSV file named EV_Analysis_Database
   
-3. Cleaning up [Electric Vehicle Population Data](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2).
+3. Cleaning up Electric Vehicle Population Data for exporting CSV file for integrated database creation
 
-![Screenshot 2023-10-19 123414](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/85ac7034-ca05-4c0e-b3b7-2077f3790f5a) for exporting CSV file for integrated database creation
+* 
 
 
 ### Dependencies
