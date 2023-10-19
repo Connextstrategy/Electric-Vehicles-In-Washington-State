@@ -78,7 +78,7 @@ Visualizations
   
 * Python file can be found [here](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/tree/main/python_files) and CSV file can be found [here](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/tree/main/cleaned_csv_files)
 
-  4. Uploading files to Post GRES for database creation
+4. . Uploading files to Post GRES for database creation
 
  * We needed to create one database for our files, so we created one via pgAdmin
 
