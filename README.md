@@ -70,6 +70,9 @@ Visualizations
  
   ![Screenshot 2023-10-19 133736](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/6eae65c5-3353-497c-a92f-e934a5652fab)
 
+  ![Screenshot 2023-10-19 133838](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/43769b4a-f19d-4f4b-9cdc-c22a9a1082e7)
+
+
 
 
 ### Dependencies
