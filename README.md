@@ -105,7 +105,7 @@ Visualizations
 
 ## Authors
 
-Christopher Manfredi
+Christopher Manfredi, Brandon Mata, Paul Boerstel, Vignesh, Allison Potestio, Spencer Auslander
 
 ## Version History
 
