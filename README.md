@@ -156,11 +156,13 @@ In this assignment, we will need to complete the following objectives:
 - plots.js
 
 1. Type in "conda activate dev" into Gitbash
-2. Type "python -m app_EV_Analysis_Full into Gitbash
+   
+**Ensure you install "pip psycogb2 install" into Gitbash as well**
+3. Type "python -m app_EV_Analysis_Full into Gitbash
 
 ![Screenshot 2023-10-24 161144](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/9631e861-5906-47d3-ac8d-faa1fb018d62)
 
-* Ensure you are building your own PostgreSQL file. Have log in and password and put it into code
+**Ensure you are building your own PostgreSQL file. Have log in and password and put it into code**
 
 ## Help
 
