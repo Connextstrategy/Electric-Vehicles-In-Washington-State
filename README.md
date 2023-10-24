@@ -48,7 +48,7 @@ Visualizations
 
 ![Screenshot 2023-10-19 131057](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/6b216ab6-7fb5-427f-a708-a64aff0ad184)
 
-2. Webscraping EV database and exporting CSV file for integrated database creation
+2. Webscraping EV Database And Exporting CSV File For Integrated Database Creation
 
 * In order to get the data from the EV database website, we we forced to scrap the data from it via Beautiful Soup in Python and then create a dataframe off the data pulled to include the data we required for our visualizations
 
@@ -60,7 +60,7 @@ Visualizations
   
 * Python file can be found [here](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/tree/main/python_files) and CSV file can be found [here](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/tree/main/cleaned_csv_files)
   
-3. Cleaning up Electric Vehicle Population Data for exporting CSV file for integrated database creation
+3. Cleaning up Electric Vehicle Population Data For Exporting CSV File For Integrated Database Creation
 
 * We need to clean up the data for the Electric Vehicle Population data from State of Washington so we did the following:
   - Dropped NAs
@@ -78,12 +78,24 @@ Visualizations
   
 * Python file can be found [here](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/tree/main/python_files) and CSV file can be found [here](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/tree/main/cleaned_csv_files)
 
-4. . Uploading files to Post GRES for database creation
+4. Quick Database Diagramming & Uploading files to Post GRES for Database Creation
 
- * We needed to create one database for our files, so we created one via pgAdmin
+ * We drew up a [Quick Database Diagram](https://app.quickdatabasediagrams.com/#/) to sketch out the schema for our data
+
+![Screenshot 2023-10-24 153524](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/696d1456-2cb1-4110-a8e7-984c8e28e06f)
+
+ * We then needed to create one database for our files, so we created one via pgAdmin
 
 ![Screenshot 2023-10-19 135100](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/eabe8e75-e891-4282-a512-96934521664d)
 
+5. Flask Creation For SQL Connection And JSON Creation For Data Visualization
+
+* Import multiple specific libraries for running Flask application
+* Ensure you create take buitl SQL library and connect it via code for engine (see below)
+* * Note use "postgres" = Log In User Name for PgAdmin
+* * Note use "password" = Password for PgAdmin
+  * 
+![Screenshot 2023-10-24 155528](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/2f0bdc32-9f2c-4596-bb88-acac2129219a)
 
 
 ### Dependencies
@@ -92,10 +104,32 @@ Visualizations
 * Web browser to show data visualizations (Google Chrome used but coudl be Mozilla or another)
 * Use index to initiate data visualization
 * Use app file in static folder to understand code for application
+  
+- Imports For Flask Application 
+* from types import prepare_class
+* import numpy as np
+* import pandas as pd
+* import sqlalchemy
+* from sqlalchemy.ext.automap import automap_base
+* from sqlalchemy.orm import Session
+* from sqlalchemy import create_engine, func
+* from flask import Flask, render_template
+* import json
+* import psycopg2
+* from flask import Flask, jsonify
+
+Javscript Libraries Used
+* [CircleType](https://circletype.labwire.ca/) for curved text
+* [Vanta.js](https://www.vantajs.com/?effect=fog) for fog background
 
 ### Installing
 
-* No modifications needed to be made to files/folders
+* Open Gitbash terminal inside Project Folder which include the following:
+- Home
+- app_EV_Anlaysis_Full
+- plots.js
+
+* Ensure you are building your own PostgreSQL file. Have log in and password and put it into 
 
 ## Help
 
@@ -105,7 +139,7 @@ Visualizations
 
 ## Authors
 
-Christopher Manfredi, Brandon Mata, Paul Boerstel, Vignesh, Allison Potestio, Spencer Auslander
+Christopher Manfredi, Brandon Mata Chacon, Paul Boerstel, Vignesh Cheirath, Allison Potestio, Spencer Auslander
 
 ## Version History
 
