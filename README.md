@@ -130,7 +130,7 @@ In this assignment, we will need to complete the following objectives:
 * Use index to initiate data visualization
 * Use app file in static folder to understand code for application
   
-- Imports For Flask Application 
+**Imports For Flask Application**
 * from types import prepare_class
 * import numpy as np
 * import pandas as pd
@@ -143,13 +143,14 @@ In this assignment, we will need to complete the following objectives:
 * import psycopg2
 * from flask import Flask, jsonify
 
-Javscript Libraries Used
+**Javscript Libraries Used**
 * [CircleType](https://circletype.labwire.ca/) for curved text
 * [Vanta.js](https://www.vantajs.com/?effect=fog) for fog background
 
 ### Installing
 
 * Open Gitbash terminal inside Project Folder which include the following:
+  
 - Home
 - app_EV_Anlaysis_Full
 - plots.js
@@ -159,7 +160,7 @@ Javscript Libraries Used
 
 ![Screenshot 2023-10-24 161144](https://github.com/Connextstrategy/Electric-Vehicles-In-Washington-State/assets/18508699/9631e861-5906-47d3-ac8d-faa1fb018d62)
 
-* Ensure you are building your own PostgreSQL file. Have log in and password and put it into 
+* Ensure you are building your own PostgreSQL file. Have log in and password and put it into code
 
 ## Help
 
