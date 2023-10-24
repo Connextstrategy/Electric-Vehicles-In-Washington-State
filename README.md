@@ -172,7 +172,7 @@ In this assignment, we will need to complete the following objectives:
 
 ## Authors
 
-Christopher Manfredi, Brandon Mata Chacon, Paul Boerstel, Vignesh Cheirath, Allison Potestio, Spencer Auslander
+Christopher Manfredi, Brandon Mata Chacon, Paul Boerstoel, Vignesh Cheirath, Allison Potestio, Spencer Auslander
 
 ## Version History
 
