@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body class="your-element-selector">
+    <h1 id="curvetest">Washington Electric Vehicles Visualizations</h1>
+    <h2>Click refresh to go back to the original visualizations</h2>
+    <select id="selDataset" onchange="optionChanged(this.value)"></select>
+    <div id="myDiv" class="your-element-selector"></div>
+    <select id="selDataset2" onchange="optionChanged2(this.value)"></select>
+    <div id="simpleplot" class="your-element-selector"></div>
+    <div id="simpleplot1" class="your-element-selector"></div>
+    <div id="simpleplot2" class="your-element-selector"></div>
+    <script src="https://cdn.jsdelivr.net/gh/peterhry/CircleType@2.3.1/dist/circletype.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.fog.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="static/plots.js"></script>
+    <script>{VANTA.FOG({
+        el: ".your-element-selector",
+        mouseControls: true,
+        touchControls: true,
+        gyroControls: false})}</script>
+    </div>
+</body>
+</html>
